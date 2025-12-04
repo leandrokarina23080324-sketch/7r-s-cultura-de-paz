@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>
+inicio
+</title>
+
+<style type="text/css">
+h1 {
+text-shadow: 4px 4px 10px #FF1493;
+ }
+ 
+ h3 {
+text-shadow: 7px 9px 8px #FF1493;
+ }
+ 
+ 
+ li {
+text-shadow: 4px 4px 10px #FF1493;
+
+ }
+ </style>
+ <style type="text/css">
+ p {
+padding: 5px 10px;
+background: #9773C9;
+transition-property: background;
+transition-duration: 1s;
+transition-timing-function: ease;
+}
+p:hover {
+background: #C2B8D6;
+}
+</style>
+</head>
+<body background=image1.jpg text=black link=99000 vlink=990000>
+<font face=Impact>
+<center>
+<h1>LA 7R ́s DE LA ECONOMÍA
+CIRCULAR Y SU RELACIÓN CON
+LA CULTURA DE PAZ</h1>
+</center>
+<h2>
+<ol type=1>
+<li>Cruz Marquez Suhey Alejandrina
+<li>Leandro Damaso Karina Lisset
+<li>Martinez Angeles Perla Paulette
+<li>Ramos Gonzalez Allison Lizbeth
+</ol>
+<ul>
+<li>Submodulo:Construye aplicaciones Web
+<li>Nombre del docente:Ana Belem Moreno Hernández
+<li>Fecha de entrega:05-Diciembre-2025
+</ul>
+</h2>
+<br><br><br><br><br><br>
+<center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><a href=index.html target=index>
+PRESIONE AQUI PARA IR AL PROYECTO
+</a></p>
+<h3><font color=black face="Cooper Black">PÀGINA CON FINES EDUCATIVOS, SIN FINES DE LUCRO</h3>
+</font>
+</center>
+</font>
+</body>
+</html>
